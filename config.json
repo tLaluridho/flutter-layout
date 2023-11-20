@@ -1,6 +1,9 @@
 {
     "modules": [
-        "dashboard"
+        "dashboard",
+        "expanded",
+        "scrol",
+        "stack"
     ],
     "module_directory_name": "module",
     "experimental_mode": false,

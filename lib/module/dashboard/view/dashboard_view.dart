@@ -19,6 +19,7 @@ class DashboardView extends StatefulWidget {
           padding: const EdgeInsets.all(20.0),
           child: Column(
             children: [
+              //DI BAWAH INI MATERI ROW DAN COLUMN
               Container(
                 color: Colors.red[100],
                 child: const Row(
