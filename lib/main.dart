@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       navigatorKey: Get.navigatorKey,
       debugShowCheckedModeBanner: false,
       theme: getDefauldTheme(),
-      home: const StackView(),
+      home: const FittedboxView(),
     );
   }
 }

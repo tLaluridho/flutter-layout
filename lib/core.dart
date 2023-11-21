@@ -7,6 +7,10 @@ export 'package:flutter_layout/module/dashboard/controller/dashboard_controller.
 export 'package:flutter_layout/module/dashboard/view/dashboard_view.dart';
 export 'package:flutter_layout/module/expanded/controller/expanded_controller.dart';
 export 'package:flutter_layout/module/expanded/view/expanded_view.dart';
+export 'package:flutter_layout/module/fittedbox/controller/fittedbox_controller.dart';
+export 'package:flutter_layout/module/fittedbox/view/fittedbox_view.dart';
+export 'package:flutter_layout/module/mediaquery/controller/mediaquery_controller.dart';
+export 'package:flutter_layout/module/mediaquery/view/mediaquery_view.dart';
 export 'package:flutter_layout/module/scrol/controller/scrol_controller.dart';
 export 'package:flutter_layout/module/scrol/view/scrol_view.dart';
 export 'package:flutter_layout/module/stack/controller/stack_controller.dart';

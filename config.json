@@ -3,7 +3,9 @@
         "dashboard",
         "expanded",
         "scrol",
-        "stack"
+        "stack",
+        "mediaquery",
+        "fittedbox"
     ],
     "module_directory_name": "module",
     "experimental_mode": false,
